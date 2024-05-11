@@ -67,7 +67,13 @@
 
 It will show an error cause you need API key
 
-**Step 4: Get the API Key:**
+**Step 4: Cannot access TMDB website in India:**
+
+- As of May 11th, 2024 (the day when I'm writing this) TMDB has been blocked in India.
+- So either switch to your local DNS or connect to a VPN to get the API Key from TMDB.
+- This should do the trick.
+
+**Step 5: Get the API Key:**
 
 - Open a web browser and navigate to TMDB (The Movie Database) website.
 - Click on "Login" and create an account.
